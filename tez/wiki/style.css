@@ -6,3 +6,42 @@
     text-align: center;
     float: right;
 }
+
+h1 {
+    display: inline;
+    margin-right: 43vw;
+}
+
+h5 {
+    margin-top: 1vh;
+}
+
+button {
+    margin-top: 3vh;
+    width: 6vw;
+    height: 6vh;
+    border-radius: 0px;
+}
+
+html {
+    font-family: sans-serif;
+    height: 98vh;
+    width: 98vw;
+}
+input[type=submit] {
+    border-radius: 0px;
+    -webkit-border-radius:0px;
+}
+
+a:active {
+    color: lightgreen;
+}
+
+a:any-link {
+    color: rgb(25, 0, 190);
+    text-decoration: none;
+}
+
+a {
+    font-weight: 600;
+}
