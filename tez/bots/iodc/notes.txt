@@ -1,0 +1,1 @@
+make the url case insensitive somehow, or just lowercase, githubs lags out on folder name update
